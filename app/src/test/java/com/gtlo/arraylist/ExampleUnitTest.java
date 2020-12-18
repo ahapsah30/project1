@@ -1,4 +1,4 @@
-package com.gtlo.project1;
+package com.gtlo.arraylist;
 
 import org.junit.Test;
 
